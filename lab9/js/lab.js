@@ -28,3 +28,4 @@ $("#button-results").click(function(){
     // now add (or subtract) the "special" class to the section
     $("#results").toggle("results");
 })
+ // it all disappears for some reason
