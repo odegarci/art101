@@ -4,7 +4,7 @@
 // Date: June 5, 2025
 
 const ajaxObj = {
-  url: "https://xkcd.com/info.0.json",
+  url: "https://corsproxy.io/?https://xkcd.com/info.0.json",
   data:{},
   type: "GET",
   dataType: "json"
